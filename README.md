@@ -30,7 +30,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ![TT1](https://user-images.githubusercontent.com/83628917/193050805-0bbfd782-78b8-484f-8ea3-a597f3bc2c71.jpg)
 ![TT2](https://user-images.githubusercontent.com/83628917/193050808-d9dc1bc2-4006-48cf-bbdf-105d3167eddb.jpg)
 
-# Take Away :
+# Key Takeaways :
 
 1) Mumbai generates the highest revenue and Delhi has the least revenue among 4 cities.
 2) Delhi has the heighest occupancy rate and Average Ratings
